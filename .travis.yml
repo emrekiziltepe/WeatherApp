@@ -1,1 +1,1 @@
-mvn test -B
+./mvnw test -B
